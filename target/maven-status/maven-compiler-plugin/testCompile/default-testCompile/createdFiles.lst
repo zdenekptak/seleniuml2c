@@ -1,0 +1,15 @@
+base\TestBase.class
+tests\SinCityTest.class
+tests\DummyTest.class
+categories\SmokeTest.class
+helpers\ExcelReader.class
+suites\ReleaseTestSuite.class
+tests\ParameterTest.class
+helpers\ExcelReaderFirst.class
+tests\PrimeTest.class
+models\Sin.class
+tests\WaitForItTest.class
+suites\SmokeTestSuite.class
+helpers\ExcelReaderSecond.class
+categories\ReleaseTest.class
+tests\InceptionTest.class
